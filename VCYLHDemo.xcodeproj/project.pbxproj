@@ -15,6 +15,7 @@
 		66214540248E37AD00427A10 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6621453E248E37AD00427A10 /* LaunchScreen.storyboard */; };
 		6621454F248E3BD100427A10 /* VCYLHViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6621454E248E3BD100427A10 /* VCYLHViewController.swift */; };
 		66214551248E46D100427A10 /* VCCPMManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66214550248E46D100427A10 /* VCCPMManager.swift */; };
+		66519CA5248FC2BC0074F4FF /* WeakObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66519CA4248FC2BC0074F4FF /* WeakObject.swift */; };
 		668E11F3248F534300C17C0E /* VCCPMGDTManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 668E11F2248F534300C17C0E /* VCCPMGDTManager.swift */; };
 		668E1227248F699D00C17C0E /* baidumobadsdk.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 668E1225248F699D00C17C0E /* baidumobadsdk.bundle */; };
 		668E1228248F699D00C17C0E /* BaiduMobAdSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 668E1226248F699D00C17C0E /* BaiduMobAdSDK.framework */; };
@@ -45,6 +46,7 @@
 		66214547248E37FF00427A10 /* VCYLHDemo-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "VCYLHDemo-Bridging-Header.h"; sourceTree = "<group>"; };
 		6621454E248E3BD100427A10 /* VCYLHViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VCYLHViewController.swift; sourceTree = "<group>"; };
 		66214550248E46D100427A10 /* VCCPMManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VCCPMManager.swift; sourceTree = "<group>"; };
+		66519CA4248FC2BC0074F4FF /* WeakObject.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeakObject.swift; sourceTree = "<group>"; };
 		668E11F2248F534300C17C0E /* VCCPMGDTManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VCCPMGDTManager.swift; sourceTree = "<group>"; };
 		668E1225248F699D00C17C0E /* baidumobadsdk.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; name = baidumobadsdk.bundle; path = VCYLHDemo/baidumobadsdk.bundle; sourceTree = "<group>"; };
 		668E1226248F699D00C17C0E /* BaiduMobAdSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = BaiduMobAdSDK.framework; path = VCYLHDemo/BaiduMobAdSDK.framework; sourceTree = "<group>"; };
@@ -128,6 +130,7 @@
 				66214550248E46D100427A10 /* VCCPMManager.swift */,
 				668E11F2248F534300C17C0E /* VCCPMGDTManager.swift */,
 				668E123F248F6C4000C17C0E /* VCCPMBQTManager.swift */,
+				66519CA4248FC2BC0074F4FF /* WeakObject.swift */,
 			);
 			path = VCYLHDemo;
 			sourceTree = "<group>";
@@ -252,6 +255,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				66519CA5248FC2BC0074F4FF /* WeakObject.swift in Sources */,
 				66214538248E37AA00427A10 /* ViewController.swift in Sources */,
 				66214551248E46D100427A10 /* VCCPMManager.swift in Sources */,
 				66214534248E37AA00427A10 /* AppDelegate.swift in Sources */,
