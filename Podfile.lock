@@ -1,0 +1,18 @@
+PODS:
+  - GDTMobSDK (4.11.6):
+    - GDTMobSDK/GDTMobSDK (= 4.11.6)
+  - GDTMobSDK/GDTMobSDK (4.11.6)
+
+DEPENDENCIES:
+  - GDTMobSDK
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - GDTMobSDK
+
+SPEC CHECKSUMS:
+  GDTMobSDK: ecd24483bd0be41f56b70ce3d12e4b18d76ab06b
+
+PODFILE CHECKSUM: 4b86ad98d3cb9da4fafc4206da4e3a99e37c874f
+
+COCOAPODS: 1.9.1
